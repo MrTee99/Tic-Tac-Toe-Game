@@ -4,4 +4,4 @@ Gameplay Demo GIF
 
 It is a console based desktop application developed using C++.
 
-Project was developed in Fall 2017 Semester. It was Computer Programming Course's final project.  
+Project was developed in Fall 2017 Semester. It was Computer Programming Course's semester project.  
